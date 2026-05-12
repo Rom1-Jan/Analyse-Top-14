@@ -95,7 +95,7 @@ Le dashboard permet de :
 
 ---
 
-## 🔮 Prochaines étapes
+## 🔮 Prochaines étapes possibles
 
 - Migration vers PostgreSQL
 - Ajout d'un modèle Machine Learning (scikit-learn) pour prédire les résultats
