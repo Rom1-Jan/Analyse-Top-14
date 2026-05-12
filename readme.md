@@ -103,3 +103,4 @@ Le dashboard permet de :
 
 ---
 
+![Aperçu du Dashboard Power BI](top14.png)
