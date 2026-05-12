@@ -1,0 +1,3694 @@
+{
+  "1": [
+    {
+      "position": 1,
+      "equipe": "Lyon",
+      "points": "5",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 2,
+      "equipe": "Stade Français",
+      "points": "5",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 3,
+      "equipe": "Toulon",
+      "points": "4",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 4,
+      "equipe": "Bayonne",
+      "points": "4",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 5,
+      "equipe": "Bordeaux-Bègles",
+      "points": "4",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 6,
+      "equipe": "Pau",
+      "points": "4",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 7,
+      "equipe": "Stade Toulousain",
+      "points": "2",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 8,
+      "equipe": "Castres",
+      "points": "1",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 9,
+      "equipe": "La Rochelle",
+      "points": "1",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Perpignan",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 11,
+      "equipe": "Clermont",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 12,
+      "equipe": "Montpellier",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 14,
+      "equipe": "Racing 92",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    }
+  ],
+  "2": [
+    {
+      "position": 1,
+      "equipe": "Lyon",
+      "points": "9",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "9",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 3,
+      "equipe": "Toulon",
+      "points": "8",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 4,
+      "equipe": "Bayonne",
+      "points": "8",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 5,
+      "equipe": "Stade Toulousain",
+      "points": "7",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 6,
+      "equipe": "La Rochelle",
+      "points": "5",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 7,
+      "equipe": "Stade Français",
+      "points": "5",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 8,
+      "equipe": "Racing 92",
+      "points": "4",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Bordeaux-Bègles",
+      "points": "4",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "2",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "0",
+      "bd": "2"
+    },
+    {
+      "position": 11,
+      "equipe": "Montpellier",
+      "points": "1",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "Perpignan",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 13,
+      "equipe": "Clermont",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "0",
+      "bd": "0"
+    }
+  ],
+  "3": [
+    {
+      "position": 1,
+      "equipe": "Lyon",
+      "points": "13",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 2,
+      "equipe": "Bordeaux-Bègles",
+      "points": "9",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 3,
+      "equipe": "Pau",
+      "points": "9",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 4,
+      "equipe": "Toulon",
+      "points": "8",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "0",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 5,
+      "equipe": "Racing 92",
+      "points": "8",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 6,
+      "equipe": "Bayonne",
+      "points": "8",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 7,
+      "equipe": "Castres",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 8,
+      "equipe": "Stade Toulousain",
+      "points": "7",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Montpellier",
+      "points": "6",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Stade Français",
+      "points": "6",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 11,
+      "equipe": "La Rochelle",
+      "points": "5",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "Clermont",
+      "points": "5",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "0",
+      "bd": "0"
+    }
+  ],
+  "4": [
+    {
+      "position": 1,
+      "equipe": "Pau",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 2,
+      "equipe": "Lyon",
+      "points": "13",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 3,
+      "equipe": "Stade Toulousain",
+      "points": "12",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 4,
+      "equipe": "Racing 92",
+      "points": "12",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 5,
+      "equipe": "Bayonne",
+      "points": "12",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 6,
+      "equipe": "La Rochelle",
+      "points": "10",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 7,
+      "equipe": "Stade Français",
+      "points": "10",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "Bordeaux-Bègles",
+      "points": "9",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Toulon",
+      "points": "9",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Montpellier",
+      "points": "8",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 11,
+      "equipe": "Castres",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 12,
+      "equipe": "Clermont",
+      "points": "5",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "2",
+      "victoires": "0",
+      "nulls": "1",
+      "défaites": "3",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "0",
+      "bd": "0"
+    }
+  ],
+  "5": [
+    {
+      "position": 1,
+      "equipe": "Bayonne",
+      "points": "16",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 2,
+      "equipe": "Stade Français",
+      "points": "15",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 3,
+      "equipe": "Toulon",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "1",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 4,
+      "equipe": "Bordeaux-Bègles",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 5,
+      "equipe": "Pau",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 6,
+      "equipe": "Lyon",
+      "points": "13",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 7,
+      "equipe": "Montpellier",
+      "points": "13",
+      "victoires": "2",
+      "nulls": "1",
+      "défaites": "2",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "Racing 92",
+      "points": "13",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 9,
+      "equipe": "Stade Toulousain",
+      "points": "12",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "11",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 11,
+      "equipe": "La Rochelle",
+      "points": "10",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "Clermont",
+      "points": "10",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "2",
+      "victoires": "0",
+      "nulls": "1",
+      "défaites": "4",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "0",
+      "bd": "0"
+    }
+  ],
+  "6": [
+    {
+      "position": 1,
+      "equipe": "Pau",
+      "points": "19",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 2,
+      "equipe": "Stade Français",
+      "points": "19",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 3,
+      "equipe": "Lyon",
+      "points": "18",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 4,
+      "equipe": "Stade Toulousain",
+      "points": "17",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 5,
+      "equipe": "Racing 92",
+      "points": "17",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 6,
+      "equipe": "Bayonne",
+      "points": "16",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "0",
+      "bd": "0"
+    },
+    {
+      "position": 7,
+      "equipe": "Castres",
+      "points": "15",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 8,
+      "equipe": "Clermont",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Toulon",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Bordeaux-Bègles",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 11,
+      "equipe": "Montpellier",
+      "points": "13",
+      "victoires": "2",
+      "nulls": "1",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "La Rochelle",
+      "points": "11",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "3",
+      "victoires": "0",
+      "nulls": "1",
+      "défaites": "5",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "0",
+      "bd": "0"
+    }
+  ],
+  "7": [
+    {
+      "position": 1,
+      "equipe": "Pau",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 2,
+      "equipe": "Bayonne",
+      "points": "21",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 3,
+      "equipe": "Stade Français",
+      "points": "20",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "2"
+    },
+    {
+      "position": 4,
+      "equipe": "Toulon",
+      "points": "19",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "2",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 5,
+      "equipe": "Castres",
+      "points": "19",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 6,
+      "equipe": "Montpellier",
+      "points": "18",
+      "victoires": "3",
+      "nulls": "1",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 7,
+      "equipe": "Stade Toulousain",
+      "points": "18",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "Bordeaux-Bègles",
+      "points": "18",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Lyon",
+      "points": "18",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 10,
+      "equipe": "Racing 92",
+      "points": "17",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 11,
+      "equipe": "La Rochelle",
+      "points": "16",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "2"
+    },
+    {
+      "position": 12,
+      "equipe": "Clermont",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "3",
+      "victoires": "0",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "0",
+      "bd": "0"
+    }
+  ],
+  "8": [
+    {
+      "position": 1,
+      "equipe": "Stade Français",
+      "points": "25",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "24",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 3,
+      "equipe": "Stade Toulousain",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "4",
+      "bd": "1"
+    },
+    {
+      "position": 4,
+      "equipe": "Bordeaux-Bègles",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 5,
+      "equipe": "Racing 92",
+      "points": "21",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 6,
+      "equipe": "Bayonne",
+      "points": "21",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "1",
+      "bd": "0"
+    },
+    {
+      "position": 7,
+      "equipe": "La Rochelle",
+      "points": "20",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "2"
+    },
+    {
+      "position": 8,
+      "equipe": "Clermont",
+      "points": "19",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Toulon",
+      "points": "19",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "19",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 11,
+      "equipe": "Montpellier",
+      "points": "18",
+      "victoires": "3",
+      "nulls": "1",
+      "défaites": "4",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "18",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "0",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "0",
+      "bd": "0"
+    }
+  ],
+  "9": [
+    {
+      "position": 1,
+      "equipe": "Pau",
+      "points": "28",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 2,
+      "equipe": "Stade Toulousain",
+      "points": "27",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "4",
+      "bd": "1"
+    },
+    {
+      "position": 3,
+      "equipe": "Bordeaux-Bègles",
+      "points": "27",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 4,
+      "equipe": "Bayonne",
+      "points": "26",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 5,
+      "equipe": "Stade Français",
+      "points": "25",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 6,
+      "equipe": "La Rochelle",
+      "points": "25",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 7,
+      "equipe": "Toulon",
+      "points": "24",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "Clermont",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Racing 92",
+      "points": "21",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "20",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "1",
+      "bd": "3"
+    },
+    {
+      "position": 11,
+      "equipe": "Montpellier",
+      "points": "19",
+      "victoires": "3",
+      "nulls": "1",
+      "défaites": "5",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "18",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "7",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "1",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "10": [
+    {
+      "position": 1,
+      "equipe": "Pau",
+      "points": "32",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 2,
+      "equipe": "Stade Toulousain",
+      "points": "32",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "5",
+      "bd": "1"
+    },
+    {
+      "position": 3,
+      "equipe": "Stade Français",
+      "points": "30",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "4",
+      "bd": "2"
+    },
+    {
+      "position": 4,
+      "equipe": "Toulon",
+      "points": "29",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "4",
+      "bd": "1"
+    },
+    {
+      "position": 5,
+      "equipe": "Bordeaux-Bègles",
+      "points": "28",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 6,
+      "equipe": "La Rochelle",
+      "points": "26",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "26",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "Bayonne",
+      "points": "26",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Montpellier",
+      "points": "24",
+      "victoires": "4",
+      "nulls": "1",
+      "défaites": "5",
+      "bo": "4",
+      "bd": "2"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "24",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "1",
+      "bd": "3"
+    },
+    {
+      "position": 11,
+      "equipe": "Clermont",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "22",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "1",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "11": [
+    {
+      "position": 1,
+      "equipe": "Pau",
+      "points": "37",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "4",
+      "bd": "1"
+    },
+    {
+      "position": 2,
+      "equipe": "Stade Toulousain",
+      "points": "37",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 3,
+      "equipe": "Toulon",
+      "points": "34",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "5",
+      "bd": "1"
+    },
+    {
+      "position": 4,
+      "equipe": "Stade Français",
+      "points": "31",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "4",
+      "bd": "3"
+    },
+    {
+      "position": 5,
+      "equipe": "Bayonne",
+      "points": "30",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 6,
+      "equipe": "Bordeaux-Bègles",
+      "points": "29",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 7,
+      "equipe": "Montpellier",
+      "points": "28",
+      "victoires": "5",
+      "nulls": "1",
+      "défaites": "5",
+      "bo": "4",
+      "bd": "2"
+    },
+    {
+      "position": 8,
+      "equipe": "Castres",
+      "points": "28",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "1",
+      "bd": "3"
+    },
+    {
+      "position": 9,
+      "equipe": "Clermont",
+      "points": "27",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 10,
+      "equipe": "La Rochelle",
+      "points": "26",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 11,
+      "equipe": "Racing 92",
+      "points": "26",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "1",
+      "victoires": "0",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "12": [
+    {
+      "position": 1,
+      "equipe": "Pau",
+      "points": "42",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "5",
+      "bd": "1"
+    },
+    {
+      "position": 2,
+      "equipe": "Stade Toulousain",
+      "points": "42",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "7",
+      "bd": "1"
+    },
+    {
+      "position": 3,
+      "equipe": "Bordeaux-Bègles",
+      "points": "34",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "4",
+      "bd": "2"
+    },
+    {
+      "position": 4,
+      "equipe": "Toulon",
+      "points": "34",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "5",
+      "bd": "1"
+    },
+    {
+      "position": 5,
+      "equipe": "Stade Français",
+      "points": "33",
+      "victoires": "6",
+      "nulls": "1",
+      "défaites": "5",
+      "bo": "4",
+      "bd": "3"
+    },
+    {
+      "position": 6,
+      "equipe": "Montpellier",
+      "points": "32",
+      "victoires": "6",
+      "nulls": "1",
+      "défaites": "5",
+      "bo": "4",
+      "bd": "2"
+    },
+    {
+      "position": 7,
+      "equipe": "La Rochelle",
+      "points": "31",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "4",
+      "bd": "3"
+    },
+    {
+      "position": 8,
+      "equipe": "Bayonne",
+      "points": "30",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Castres",
+      "points": "29",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "1",
+      "bd": "4"
+    },
+    {
+      "position": 10,
+      "equipe": "Racing 92",
+      "points": "28",
+      "victoires": "6",
+      "nulls": "1",
+      "défaites": "5",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 11,
+      "equipe": "Clermont",
+      "points": "27",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "10",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "5",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "13": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "47",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "8",
+      "bd": "1"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "46",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "3",
+      "bo": "5",
+      "bd": "1"
+    },
+    {
+      "position": 3,
+      "equipe": "Toulon",
+      "points": "39",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 4,
+      "equipe": "Stade Français",
+      "points": "34",
+      "victoires": "6",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "4",
+      "bd": "4"
+    },
+    {
+      "position": 5,
+      "equipe": "Bordeaux-Bègles",
+      "points": "34",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "4",
+      "bd": "2"
+    },
+    {
+      "position": 6,
+      "equipe": "Bayonne",
+      "points": "34",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "33",
+      "victoires": "7",
+      "nulls": "1",
+      "défaites": "5",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "Castres",
+      "points": "33",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "1",
+      "bd": "4"
+    },
+    {
+      "position": 9,
+      "equipe": "Montpellier",
+      "points": "33",
+      "victoires": "6",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "4",
+      "bd": "3"
+    },
+    {
+      "position": 10,
+      "equipe": "La Rochelle",
+      "points": "31",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "4",
+      "bd": "3"
+    },
+    {
+      "position": 11,
+      "equipe": "Clermont",
+      "points": "31",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "3",
+      "bd": "0"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 13,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "11",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Perpignan",
+      "points": "5",
+      "victoires": "1",
+      "nulls": "0",
+      "défaites": "12",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "14": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "8",
+      "bd": "2"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "47",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 3,
+      "equipe": "Stade Français",
+      "points": "39",
+      "victoires": "7",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 4,
+      "equipe": "Bordeaux-Bègles",
+      "points": "39",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 5,
+      "equipe": "Toulon",
+      "points": "39",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 6,
+      "equipe": "Montpellier",
+      "points": "38",
+      "victoires": "7",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "5",
+      "bd": "3"
+    },
+    {
+      "position": 7,
+      "equipe": "La Rochelle",
+      "points": "36",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "5",
+      "bd": "3"
+    },
+    {
+      "position": 8,
+      "equipe": "Clermont",
+      "points": "36",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "4",
+      "bd": "0"
+    },
+    {
+      "position": 9,
+      "equipe": "Bayonne",
+      "points": "34",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "2",
+      "bd": "0"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "33",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "1",
+      "bd": "4"
+    },
+    {
+      "position": 11,
+      "equipe": "Racing 92",
+      "points": "33",
+      "victoires": "7",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "27",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "9",
+      "victoires": "2",
+      "nulls": "0",
+      "défaites": "12",
+      "bo": "0",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "12",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "15": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "53",
+      "victoires": "11",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "9",
+      "bd": "2"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "47",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 3,
+      "equipe": "Stade Français",
+      "points": "43",
+      "victoires": "8",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 4,
+      "equipe": "Toulon",
+      "points": "43",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 5,
+      "equipe": "Clermont",
+      "points": "40",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "4",
+      "bd": "0"
+    },
+    {
+      "position": 6,
+      "equipe": "Bordeaux-Bègles",
+      "points": "40",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "5",
+      "bd": "3"
+    },
+    {
+      "position": 7,
+      "equipe": "Montpellier",
+      "points": "39",
+      "victoires": "7",
+      "nulls": "1",
+      "défaites": "7",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 8,
+      "equipe": "Castres",
+      "points": "37",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "1",
+      "bd": "4"
+    },
+    {
+      "position": 9,
+      "equipe": "La Rochelle",
+      "points": "37",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 10,
+      "equipe": "Racing 92",
+      "points": "37",
+      "victoires": "8",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 11,
+      "equipe": "Bayonne",
+      "points": "35",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "28",
+      "victoires": "6",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "2",
+      "bd": "2"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "12",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "13",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "16": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "58",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "10",
+      "bd": "2"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "51",
+      "victoires": "11",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 3,
+      "equipe": "Bordeaux-Bègles",
+      "points": "45",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "6",
+      "bd": "3"
+    },
+    {
+      "position": 4,
+      "equipe": "Montpellier",
+      "points": "44",
+      "victoires": "8",
+      "nulls": "1",
+      "défaites": "7",
+      "bo": "6",
+      "bd": "4"
+    },
+    {
+      "position": 5,
+      "equipe": "Stade Français",
+      "points": "43",
+      "victoires": "8",
+      "nulls": "1",
+      "défaites": "7",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 6,
+      "equipe": "Toulon",
+      "points": "43",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 7,
+      "equipe": "Castres",
+      "points": "41",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "1",
+      "bd": "4"
+    },
+    {
+      "position": 8,
+      "equipe": "Clermont",
+      "points": "41",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "4",
+      "bd": "1"
+    },
+    {
+      "position": 9,
+      "equipe": "Racing 92",
+      "points": "41",
+      "victoires": "9",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "La Rochelle",
+      "points": "37",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 11,
+      "equipe": "Bayonne",
+      "points": "35",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "32",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "2",
+      "bd": "2"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "14",
+      "victoires": "3",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "14",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "17": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "62",
+      "victoires": "13",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "10",
+      "bd": "2"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "51",
+      "victoires": "11",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 3,
+      "equipe": "Bordeaux-Bègles",
+      "points": "50",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "7",
+      "bd": "3"
+    },
+    {
+      "position": 4,
+      "equipe": "Montpellier",
+      "points": "48",
+      "victoires": "9",
+      "nulls": "1",
+      "défaites": "7",
+      "bo": "6",
+      "bd": "4"
+    },
+    {
+      "position": 5,
+      "equipe": "Clermont",
+      "points": "46",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "5",
+      "bd": "1"
+    },
+    {
+      "position": 6,
+      "equipe": "Racing 92",
+      "points": "45",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "6",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 7,
+      "equipe": "Stade Français",
+      "points": "44",
+      "victoires": "8",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "5",
+      "bd": "5"
+    },
+    {
+      "position": 8,
+      "equipe": "Toulon",
+      "points": "43",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 9,
+      "equipe": "Castres",
+      "points": "41",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "1",
+      "bd": "4"
+    },
+    {
+      "position": 10,
+      "equipe": "La Rochelle",
+      "points": "37",
+      "victoires": "7",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 11,
+      "equipe": "Lyon",
+      "points": "37",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 12,
+      "equipe": "Bayonne",
+      "points": "36",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "2",
+      "bd": "2"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "18",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "15",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "18": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "67",
+      "victoires": "14",
+      "nulls": "0",
+      "défaites": "4",
+      "bo": "11",
+      "bd": "2"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "55",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 3,
+      "equipe": "Montpellier",
+      "points": "53",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "7",
+      "bo": "7",
+      "bd": "4"
+    },
+    {
+      "position": 4,
+      "equipe": "Clermont",
+      "points": "51",
+      "victoires": "11",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 5,
+      "equipe": "Bordeaux-Bègles",
+      "points": "50",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "7",
+      "bd": "3"
+    },
+    {
+      "position": 6,
+      "equipe": "Stade Français",
+      "points": "49",
+      "victoires": "9",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "6",
+      "bd": "5"
+    },
+    {
+      "position": 7,
+      "equipe": "Toulon",
+      "points": "45",
+      "victoires": "9",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "Racing 92",
+      "points": "45",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "7",
+      "bo": "2",
+      "bd": "1"
+    },
+    {
+      "position": 9,
+      "equipe": "Castres",
+      "points": "42",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "1",
+      "bd": "5"
+    },
+    {
+      "position": 10,
+      "equipe": "La Rochelle",
+      "points": "41",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 11,
+      "equipe": "Lyon",
+      "points": "39",
+      "victoires": "8",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 12,
+      "equipe": "Bayonne",
+      "points": "36",
+      "victoires": "8",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "2",
+      "bd": "2"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "18",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "14",
+      "bo": "1",
+      "bd": "1"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "16",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "19": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "67",
+      "victoires": "14",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "11",
+      "bd": "2"
+    },
+    {
+      "position": 2,
+      "equipe": "Montpellier",
+      "points": "57",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "7",
+      "bo": "7",
+      "bd": "4"
+    },
+    {
+      "position": 3,
+      "equipe": "Pau",
+      "points": "55",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 4,
+      "equipe": "Bordeaux-Bègles",
+      "points": "55",
+      "victoires": "11",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "8",
+      "bd": "3"
+    },
+    {
+      "position": 5,
+      "equipe": "Stade Français",
+      "points": "54",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "7",
+      "bd": "5"
+    },
+    {
+      "position": 6,
+      "equipe": "Clermont",
+      "points": "52",
+      "victoires": "11",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "6",
+      "bd": "2"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "50",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "7",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "La Rochelle",
+      "points": "45",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 9,
+      "equipe": "Toulon",
+      "points": "45",
+      "victoires": "9",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Lyon",
+      "points": "43",
+      "victoires": "9",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 11,
+      "equipe": "Castres",
+      "points": "42",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "1",
+      "bd": "5"
+    },
+    {
+      "position": 12,
+      "equipe": "Bayonne",
+      "points": "41",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "19",
+      "victoires": "4",
+      "nulls": "0",
+      "défaites": "15",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "17",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "20": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "71",
+      "victoires": "15",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "11",
+      "bd": "2"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "59",
+      "victoires": "13",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 3,
+      "equipe": "Stade Français",
+      "points": "59",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "8",
+      "bd": "5"
+    },
+    {
+      "position": 4,
+      "equipe": "Bordeaux-Bègles",
+      "points": "59",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "8",
+      "bd": "3"
+    },
+    {
+      "position": 5,
+      "equipe": "Montpellier",
+      "points": "57",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "7",
+      "bd": "4"
+    },
+    {
+      "position": 6,
+      "equipe": "Clermont",
+      "points": "52",
+      "victoires": "11",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "6",
+      "bd": "2"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "50",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "3",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "Castres",
+      "points": "47",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "2",
+      "bd": "5"
+    },
+    {
+      "position": 9,
+      "equipe": "La Rochelle",
+      "points": "45",
+      "victoires": "9",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "5",
+      "bd": "4"
+    },
+    {
+      "position": 10,
+      "equipe": "Bayonne",
+      "points": "45",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 11,
+      "equipe": "Toulon",
+      "points": "45",
+      "victoires": "9",
+      "nulls": "1",
+      "défaites": "10",
+      "bo": "6",
+      "bd": "1"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "44",
+      "victoires": "9",
+      "nulls": "1",
+      "défaites": "10",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "15",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "18",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "21": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "76",
+      "victoires": "16",
+      "nulls": "0",
+      "défaites": "5",
+      "bo": "12",
+      "bd": "2"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "64",
+      "victoires": "14",
+      "nulls": "0",
+      "défaites": "7",
+      "bo": "6",
+      "bd": "2"
+    },
+    {
+      "position": 3,
+      "equipe": "Montpellier",
+      "points": "61",
+      "victoires": "12",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "7",
+      "bd": "4"
+    },
+    {
+      "position": 4,
+      "equipe": "Stade Français",
+      "points": "59",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "8",
+      "bd": "5"
+    },
+    {
+      "position": 5,
+      "equipe": "Bordeaux-Bègles",
+      "points": "59",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "8",
+      "bd": "3"
+    },
+    {
+      "position": 6,
+      "equipe": "Clermont",
+      "points": "57",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "7",
+      "bd": "2"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "55",
+      "victoires": "12",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "4",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "La Rochelle",
+      "points": "50",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "6",
+      "bd": "4"
+    },
+    {
+      "position": 9,
+      "equipe": "Toulon",
+      "points": "50",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "10",
+      "bo": "7",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "47",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "2",
+      "bd": "5"
+    },
+    {
+      "position": 11,
+      "equipe": "Bayonne",
+      "points": "45",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 12,
+      "equipe": "Lyon",
+      "points": "44",
+      "victoires": "9",
+      "nulls": "1",
+      "défaites": "11",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "23",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "16",
+      "bo": "1",
+      "bd": "2"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "19",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "22": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "77",
+      "victoires": "16",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "12",
+      "bd": "3"
+    },
+    {
+      "position": 2,
+      "equipe": "Pau",
+      "points": "65",
+      "victoires": "14",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "6",
+      "bd": "3"
+    },
+    {
+      "position": 3,
+      "equipe": "Montpellier",
+      "points": "65",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "7",
+      "bd": "4"
+    },
+    {
+      "position": 4,
+      "equipe": "Stade Français",
+      "points": "63",
+      "victoires": "12",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "8",
+      "bd": "5"
+    },
+    {
+      "position": 5,
+      "equipe": "Clermont",
+      "points": "61",
+      "victoires": "13",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "7",
+      "bd": "2"
+    },
+    {
+      "position": 6,
+      "equipe": "Bordeaux-Bègles",
+      "points": "60",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "8",
+      "bd": "4"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "60",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "5",
+      "bd": "1"
+    },
+    {
+      "position": 8,
+      "equipe": "Toulon",
+      "points": "55",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "10",
+      "bo": "8",
+      "bd": "1"
+    },
+    {
+      "position": 9,
+      "equipe": "La Rochelle",
+      "points": "54",
+      "victoires": "11",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "6",
+      "bd": "4"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "12",
+      "bo": "2",
+      "bd": "6"
+    },
+    {
+      "position": 11,
+      "equipe": "Lyon",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "11",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 12,
+      "equipe": "Bayonne",
+      "points": "45",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "12",
+      "bo": "3",
+      "bd": "2"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "24",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "17",
+      "bo": "1",
+      "bd": "3"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "20",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "23": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "82",
+      "victoires": "17",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "13",
+      "bd": "3"
+    },
+    {
+      "position": 2,
+      "equipe": "Montpellier",
+      "points": "70",
+      "victoires": "14",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "8",
+      "bd": "4"
+    },
+    {
+      "position": 3,
+      "equipe": "Pau",
+      "points": "69",
+      "victoires": "15",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "6",
+      "bd": "3"
+    },
+    {
+      "position": 4,
+      "equipe": "Stade Français",
+      "points": "68",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "9",
+      "bd": "5"
+    },
+    {
+      "position": 5,
+      "equipe": "Clermont",
+      "points": "66",
+      "victoires": "14",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "8",
+      "bd": "2"
+    },
+    {
+      "position": 6,
+      "equipe": "Bordeaux-Bègles",
+      "points": "64",
+      "victoires": "13",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "8",
+      "bd": "4"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "61",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 8,
+      "equipe": "La Rochelle",
+      "points": "58",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "6",
+      "bd": "4"
+    },
+    {
+      "position": 9,
+      "equipe": "Toulon",
+      "points": "55",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "11",
+      "bo": "8",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "2",
+      "bd": "6"
+    },
+    {
+      "position": 11,
+      "equipe": "Lyon",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "12",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 12,
+      "equipe": "Bayonne",
+      "points": "46",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "24",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "18",
+      "bo": "1",
+      "bd": "3"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "21",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "24": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "82",
+      "victoires": "17",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "13",
+      "bd": "3"
+    },
+    {
+      "position": 2,
+      "equipe": "Montpellier",
+      "points": "70",
+      "victoires": "14",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "8",
+      "bd": "4"
+    },
+    {
+      "position": 3,
+      "equipe": "Pau",
+      "points": "69",
+      "victoires": "15",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "6",
+      "bd": "3"
+    },
+    {
+      "position": 4,
+      "equipe": "Stade Français",
+      "points": "68",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "9",
+      "bd": "5"
+    },
+    {
+      "position": 5,
+      "equipe": "Clermont",
+      "points": "66",
+      "victoires": "14",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "8",
+      "bd": "2"
+    },
+    {
+      "position": 6,
+      "equipe": "Bordeaux-Bègles",
+      "points": "64",
+      "victoires": "13",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "8",
+      "bd": "4"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "61",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 8,
+      "equipe": "La Rochelle",
+      "points": "58",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "6",
+      "bd": "4"
+    },
+    {
+      "position": 9,
+      "equipe": "Toulon",
+      "points": "55",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "11",
+      "bo": "8",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "2",
+      "bd": "6"
+    },
+    {
+      "position": 11,
+      "equipe": "Lyon",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "12",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 12,
+      "equipe": "Bayonne",
+      "points": "46",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "24",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "18",
+      "bo": "1",
+      "bd": "3"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "21",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "25": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "82",
+      "victoires": "17",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "13",
+      "bd": "3"
+    },
+    {
+      "position": 2,
+      "equipe": "Montpellier",
+      "points": "70",
+      "victoires": "14",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "8",
+      "bd": "4"
+    },
+    {
+      "position": 3,
+      "equipe": "Pau",
+      "points": "69",
+      "victoires": "15",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "6",
+      "bd": "3"
+    },
+    {
+      "position": 4,
+      "equipe": "Stade Français",
+      "points": "68",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "9",
+      "bd": "5"
+    },
+    {
+      "position": 5,
+      "equipe": "Clermont",
+      "points": "66",
+      "victoires": "14",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "8",
+      "bd": "2"
+    },
+    {
+      "position": 6,
+      "equipe": "Bordeaux-Bègles",
+      "points": "64",
+      "victoires": "13",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "8",
+      "bd": "4"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "61",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 8,
+      "equipe": "La Rochelle",
+      "points": "58",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "6",
+      "bd": "4"
+    },
+    {
+      "position": 9,
+      "equipe": "Toulon",
+      "points": "55",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "11",
+      "bo": "8",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "2",
+      "bd": "6"
+    },
+    {
+      "position": 11,
+      "equipe": "Lyon",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "12",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 12,
+      "equipe": "Bayonne",
+      "points": "46",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "24",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "18",
+      "bo": "1",
+      "bd": "3"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "21",
+      "bo": "0",
+      "bd": "1"
+    }
+  ],
+  "26": [
+    {
+      "position": 1,
+      "equipe": "Stade Toulousain",
+      "points": "82",
+      "victoires": "17",
+      "nulls": "0",
+      "défaites": "6",
+      "bo": "13",
+      "bd": "3"
+    },
+    {
+      "position": 2,
+      "equipe": "Montpellier",
+      "points": "70",
+      "victoires": "14",
+      "nulls": "1",
+      "défaites": "8",
+      "bo": "8",
+      "bd": "4"
+    },
+    {
+      "position": 3,
+      "equipe": "Pau",
+      "points": "69",
+      "victoires": "15",
+      "nulls": "0",
+      "défaites": "8",
+      "bo": "6",
+      "bd": "3"
+    },
+    {
+      "position": 4,
+      "equipe": "Stade Français",
+      "points": "68",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "9",
+      "bd": "5"
+    },
+    {
+      "position": 5,
+      "equipe": "Clermont",
+      "points": "66",
+      "victoires": "14",
+      "nulls": "0",
+      "défaites": "9",
+      "bo": "8",
+      "bd": "2"
+    },
+    {
+      "position": 6,
+      "equipe": "Bordeaux-Bègles",
+      "points": "64",
+      "victoires": "13",
+      "nulls": "0",
+      "défaites": "10",
+      "bo": "8",
+      "bd": "4"
+    },
+    {
+      "position": 7,
+      "equipe": "Racing 92",
+      "points": "61",
+      "victoires": "13",
+      "nulls": "1",
+      "défaites": "9",
+      "bo": "5",
+      "bd": "2"
+    },
+    {
+      "position": 8,
+      "equipe": "La Rochelle",
+      "points": "58",
+      "victoires": "12",
+      "nulls": "0",
+      "défaites": "11",
+      "bo": "6",
+      "bd": "4"
+    },
+    {
+      "position": 9,
+      "equipe": "Toulon",
+      "points": "55",
+      "victoires": "11",
+      "nulls": "1",
+      "défaites": "11",
+      "bo": "8",
+      "bd": "1"
+    },
+    {
+      "position": 10,
+      "equipe": "Castres",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "2",
+      "bd": "6"
+    },
+    {
+      "position": 11,
+      "equipe": "Lyon",
+      "points": "48",
+      "victoires": "10",
+      "nulls": "1",
+      "défaites": "12",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 12,
+      "equipe": "Bayonne",
+      "points": "46",
+      "victoires": "10",
+      "nulls": "0",
+      "défaites": "13",
+      "bo": "3",
+      "bd": "3"
+    },
+    {
+      "position": 13,
+      "equipe": "Perpignan",
+      "points": "24",
+      "victoires": "5",
+      "nulls": "0",
+      "défaites": "18",
+      "bo": "1",
+      "bd": "3"
+    },
+    {
+      "position": 14,
+      "equipe": "Montauban",
+      "points": "7",
+      "victoires": "1",
+      "nulls": "1",
+      "défaites": "21",
+      "bo": "0",
+      "bd": "1"
+    }
+  ]
+}
