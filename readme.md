@@ -103,6 +103,3 @@ Le dashboard permet de :
 
 ---
 
-## 👤 Auteur
-
-**Romain Janoueix** — Étudiant BUT Informatique spécialisation Data
